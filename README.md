@@ -1,3 +1,5 @@
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LiangLuDev&show_icons=truehide_title=true&theme=material-palenight&count_private=true&hide=prs,contribs" />
+
 ### Here is LiangLuDev 👋
    [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLiangLuDev)](https://github.com/LiangLuDev)
    [![](https://img.shields.io/badge/dynamic/json?color=DC143C&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&suffix=%20%E7%B2%89%E4%B8%9D&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5129514664)](https://weibo.com/LuLiangDev)
@@ -8,5 +10,5 @@
   - 👨‍💻 I am a **Android/Flutter Software Engineer**
   - 🧑🏻‍💻 Worked at **JD Finance、行者**，Currently working for **BlackShark**
   - 📮 How to reach me: liangludev@gmail.com.
-  - <img align="right" src="https://github-readme-stats.vercel.app/api?username=LiangLuDev&show_icons=truehide_title=true&theme=material-palenight&count_private=true&hide=prs,contribs" />
+  - <img align="left" src="https://github-readme-stats.vercel.app/api?username=LiangLuDev&show_icons=truehide_title=true&theme=material-palenight&count_private=true&hide=prs,contribs" />
   - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangLuDev&layout=compact&theme=material-palenight)
